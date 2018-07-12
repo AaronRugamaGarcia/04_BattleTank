@@ -5,3 +5,4 @@ Unreal, C++ project (practice)
 ## Lecture List
 * BT01 Intro, Notes and Assets
 * BT02 Game Gesign
+* BT03 Setting up repo
